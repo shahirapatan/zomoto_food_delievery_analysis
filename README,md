@@ -1,0 +1,47 @@
+🍔 Zomato Delivery Data Analysis
+
+📌 Project Overview
+This project analyzes food delivery data to understand the factors associated with delivery time and customer ratings. Microsoft Excel is used to organize the data, create PivotTables, build charts, and identify useful patterns in delivery performance.
+
+🎯 Objectives
+- Analyze road traffic and average delivery time.
+- Examine vehicle condition and delivery time.
+- Compare delivery times across weather conditions.
+- Analyze multiple deliveries and delivery time.
+- Compare average delivery time across cities.
+- Explore traffic conditions and delivery ratings.
+- Present key insights through visualizations.
+
+🛠️ Tools and Technologies
+- Microsoft Excel
+- Excel PivotTables and PivotCharts
+- Data analysis and visualization
+- Charts and slicers, where applicable
+
+📊 Key Analyses
+1. Road Traffic vs Average Delivery Time
+2. Vehicle Condition vs Average Delivery Time
+3. Weather vs Average Delivery Time
+4. Multiple Deliveries vs Average Delivery Time
+5. City vs Average Delivery Time
+6. Traffic vs Delivery Ratings
+
+🔍 Methodology
+1. Organize and prepare the dataset.
+2. Summarize relevant fields using PivotTables.
+3. Calculate average delivery times and compare categories.
+4. Create charts to visualize patterns.
+5. Interpret the results and develop recommendations.
+
+💡 Expected Outcomes
+- Understand differences in delivery time across traffic conditions.
+- Identify patterns related to vehicle condition and weather.
+- Compare delivery performance across cities.
+- Examine how delivery ratings vary with traffic conditions.
+- Present data-driven recommendations for improving delivery operations.
+
+📝 Conclusion
+This project demonstrates how Microsoft Excel can be used to analyze delivery data, visualize trends, and communicate insights that support better understanding of delivery performance.
+
+
+⭐ Thank you for visiting this project!
